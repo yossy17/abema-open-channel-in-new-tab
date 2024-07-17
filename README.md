@@ -14,4 +14,3 @@
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。
-# abema-open-channel-in-new-tab
